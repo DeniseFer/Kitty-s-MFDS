@@ -3,7 +3,10 @@
 </br>
 
 <div align= center>
-<img height = 450 width = 850 src= "https://github.com/Allan-Drip/Calculadoras/assets/124710256/f076c07d-e9f9-41cd-ab6f-bc44f657ffe0"/>
+  
+<img height = 450 width = 850 src= "https://github.com/DeniseFer/Kitty-s-MFDS/assets/124710256/79286eb7-d713-4705-811f-5ba15a7d5e9a"/>
+
+
 </div>
 <br>
 </br>
