@@ -1,5 +1,5 @@
 
- # <img align = "center" src="https://github.com/DeniseFer/Kitty-s-MFDS/assets/124710256/3563a620-616c-471b-bf32-bb2f28e5facb" width ="25"> Confeitaria da Hello Kitty  
+ # <img align = "center" src="https://github.com/DeniseFer/Kitty-s-MFDS/assets/124710256/3563a620-616c-471b-bf32-bb2f28e5facb" width ="50"> Confeitaria da Hello Kitty  
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-## <img src="https://github.com/DeniseFer/Kitty-s-MFDS/assets/124710256/9a0cc89b-0b50-43f6-8b86-f684dbcaeeb4" width="35"><b> Sobre: </b>
+## <img src="https://github.com/DeniseFer/Kitty-s-MFDS/assets/124710256/9a0cc89b-0b50-43f6-8b86-f684dbcaeeb4" width="50"><b> Sobre: </b>
 
 <p> É com muito prazer que a Kitty's Bakery apresenta seu mais novo projeto, aprimorando seu atendimento com um eficaz sistema de cardápio digital. O menu digital acrescenta sistema de delivery em sua estrutura, facilitando a experiência do cliente com a confeitaria. Os doces nunca pareceram mais deliciosos!! 
 </p>
@@ -25,11 +25,11 @@
 
 <div align = "center">
 <br> </br>
-<br> <img width = 35 src =  "https://i.pinimg.com/originals/88/f6/47/88f647c072710a9b9e5bf84c5382d4e4.png" </br>
+<br> <img width = 50 src =  "https://i.pinimg.com/originals/88/f6/47/88f647c072710a9b9e5bf84c5382d4e4.png" </br>
 <br> </br>
 </div>
 
-## <img src="https://github.com/DeniseFer/Kitty-s-MFDS/assets/124710256/9a0cc89b-0b50-43f6-8b86-f684dbcaeeb4" width="35"><b> FourTeam Company </b>
+## <img src="https://github.com/DeniseFer/Kitty-s-MFDS/assets/124710256/9a0cc89b-0b50-43f6-8b86-f684dbcaeeb4" width="50"><b> 4ce Company </b>
 <p> Grupo desenvolvedor iniciante da disciplina de MFDS</p>
 
 
@@ -46,18 +46,18 @@
 
 <div align = "center">
 <br> </br>
-<br> <img width = 35 src =  "https://i.pinimg.com/originals/88/f6/47/88f647c072710a9b9e5bf84c5382d4e4.png" </br>
+<br> <img width = 50 src =  "https://i.pinimg.com/originals/88/f6/47/88f647c072710a9b9e5bf84c5382d4e4.png" </br>
 <br> </br>
 </div>
 
- ## <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Ferramentas:
+ ## <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50">Ferramentas:
   
  
   * ## Canva
-    <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/214990a1-f590-4f9b-ade4-fb82f5eaaace" width="35">
+    <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/214990a1-f590-4f9b-ade4-fb82f5eaaace" width="50">
   
   * ## PostgreeSQL
-     <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/4a2e15ef-3e49-4f6f-b47f-8da666f3fc9b" width="35">
+     <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/4a2e15ef-3e49-4f6f-b47f-8da666f3fc9b" width="50">
 
 <br> </br>
 
